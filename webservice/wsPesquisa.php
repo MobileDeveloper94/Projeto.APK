@@ -1,4 +1,5 @@
 <?php
+//webservice de pesquisa
 	include "clUsuario.php";
 	$chave = md5('projetoapk');
 	
